@@ -5,5 +5,5 @@
 5) *printf()* -  prints
 6) *%zu, %d* -print the variables of size_t length
 
-"-o, -c" - control the behavior of the compiler and the resulting output.
-gcc => GNU Compiler Collection
+*-o, -c* - control the behavior of the compiler and the resulting output.
+*gcc* => GNU Compiler Collection
