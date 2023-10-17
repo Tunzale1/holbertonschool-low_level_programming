@@ -15,5 +15,6 @@ int main(void)
 		printf("%d", digit);
 		digit++;
 	}
+	putchar('\n');
 	return (0);
 }
