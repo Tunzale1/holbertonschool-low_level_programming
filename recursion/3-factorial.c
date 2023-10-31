@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * factorial - func returns factorial of given number
- * n: integer
+ * @n: integer
  * Return: factorial
  */
 int factorial(int n)
