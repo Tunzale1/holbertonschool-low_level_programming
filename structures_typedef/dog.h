@@ -1,12 +1,16 @@
-#ifndef HEADER_FILE
-#define HEADER_FILE
+#ifndef Poppy
+#define Poppy
+/**
+ * struct dog - type
+ *@name: name of dog
+ *@age: age of dog
+ *@owner: owner of dog
+ */
 struct dog
 {
 	char *name;
 	float age;
 	char *owner;
-<<<<<<< HEAD
-=======
-}
->>>>>>> fc0cd674b4921f46cebbb4801f652fbf3d141851
+};
+void init_dog(struct dog *d, char *name, float age, char *owner);
 #endif
