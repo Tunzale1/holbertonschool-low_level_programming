@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "\U0001F600"
+git commit -m ":tada:"
 git push
