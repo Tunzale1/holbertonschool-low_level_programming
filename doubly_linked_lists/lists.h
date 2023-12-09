@@ -1,6 +1,9 @@
 #ifndef double_link
 #define double_link
 #include <stddef.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 /**
  * struct dlistint_s - doubly linked list
  * @n: integer
